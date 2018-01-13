@@ -54,5 +54,9 @@ For more resources on Jupyter Notebooks, check out the following:
 * Ian Godfellow's [keynote](https://channel9.msdn.com/Events/Neural-Information-Processing-Systems-Conference/Neural-Information-Processing-Systems-Conference-NIPS-2016/Generative-Adversarial-Networks) on GANs (More of a technical video)
 * Brandon Amos's image completion [blog post](https://bamos.github.io/2016/08/09/deep-completion/)
 * [Blog post](https://medium.com/@ageitgey/abusing-generative-adversarial-networks-to-make-8-bit-pixel-art-e45d9b96cee7) on using GANs in video games. 
+* [Blog post](https://medium.com/@devnag/generative-adversarial-networks-gans-in-50-lines-of-code-pytorch-e81b79659e3f) on using pytorch with GANs
 * Andrej Karpathy's [blog post](http://cs.stanford.edu/people/karpathy/gan/) with GAN visualizations.
 * Adit Deshpande's [blog post](https://adeshpande3.github.io/adeshpande3.github.io/Deep-Learning-Research-Review-Week-1-Generative-Adversarial-Nets) on GANs and overview of some associated papers.
+* John Glover's Introduction [blog post](http://blog.aylien.com/introduction-generative-adversarial-networks-code-tensorflow/)
+* Vincent Granville's Number Theory [blog post](https://www.datasciencecentral.com/profiles/blogs/number-theory-nice-generalization-of-the-waring-conjecture)
+* GAN for beginners [blog post](https://www.oreilly.com/learning/generative-adversarial-networks-for-beginners)
